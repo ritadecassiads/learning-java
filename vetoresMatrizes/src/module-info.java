@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author rita
- *
- */
-module vetoresMatrizes {
-}
